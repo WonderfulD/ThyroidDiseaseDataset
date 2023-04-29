@@ -1,0 +1,14 @@
+﻿
+1. Title: Thyroid Domain
+
+2. Number of Classes: 3
+   The problem is to determine whether a patient referred to the clinic is
+"   hypothyroid. Therefore three classes are built: normal (not hypothyroid),"
+   hyperfunction and subnormal functioning. Because 92 percent of the patients
+   are not hyperthyroid a good classifier must be significant better than 92%.
+
+"3. Number of Attributes: 21 (15 attributes are binary,6 attributes are continuous)"
+
+
+数据来源：https://archive-beta.ics.uci.edu/dataset/102/thyroid+disease.
+
